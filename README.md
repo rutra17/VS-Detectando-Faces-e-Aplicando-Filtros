@@ -32,7 +32,7 @@ Este projeto é uma aplicação de Visão Computacional desenvolvida em Python q
 3. **Execute a aplicação:**
 
    ```bash
-   python pica.py
+   python maskin.py
    ```
 
 4. Pressione a tecla **'q'** para encerrar a aplicação.
